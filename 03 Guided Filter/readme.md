@@ -1,9 +1,9 @@
-## Guided Filter
+# Guided Filter
 
 - Edge preserving Filter
 - Complexity O(N)
 
-# Dependencies
+## Dependencies
 - numpy
 - cv2
 
