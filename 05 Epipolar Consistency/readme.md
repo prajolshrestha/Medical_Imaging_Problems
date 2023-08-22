@@ -18,4 +18,4 @@ Medical Image Processing
 - compute mapping per projection
 
 
-- Compute Consistency
+- Compute Consistency( radon derivatives, mappings)
