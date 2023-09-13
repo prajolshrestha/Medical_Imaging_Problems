@@ -5,4 +5,4 @@
 - Vesselness
 - Guided Filter
 - Deep Learning
-- Epipolar Consistency
+- Epipolar Consistency (INCOMPLETE)
