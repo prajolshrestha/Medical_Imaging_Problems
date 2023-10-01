@@ -1,4 +1,4 @@
-# Medical_Imaging_Exercise
+# Medical_Imaging_Problems
 
 - Intro
 - Structure Tensor
